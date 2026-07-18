@@ -46,8 +46,8 @@ Misuse of monitoring software may violate privacy laws and damage trust. Use res
 
 1. **Download** the repository as ZIP or clone:
    ```bash
-   git clone https://github.com/yourusername/PC-Parental-Control.git
-   cd PC-Parental-Control
+   git clone https://github.com/Obed-Ojingwa/Parental-Control-Windows.git
+   cd Parental-Control-Windows
    ```
 
 2. **Run installer as Administrator**:
@@ -231,8 +231,8 @@ Contributions are welcome! Please follow these guidelines:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/PC-Parental-Control.git
-cd PC-Parental-Control
+git clone https://github.com/Obed-Ojingwa/Parental-Control-Windows.git
+cd Parental-Control-Windows
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -254,11 +254,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the developers of `pywin32`, `psutil`, and `pyyaml` for excellent Windows integration libraries
 - Built for concerned parents seeking to protect children in the digital age
 
+---
+
+*Copyright © 2026 Obed-Ojingwa. Licensed under MIT.*
+
 ## 📞 Support & Contact
 
 For questions, issues, or contributions:
 
-- **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/PC-Parental-Control/issues)
+- **Issue Tracker**: [GitHub Issues](https://github.com/Obed-Ojingwa/Parental-Control-Windows/issues)
 - **Email**: obedchukwunenye@gmail.com (as listed in config)
 - **Documentation**: See this README and code comments
 
