@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or contributions:
 
 - **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/PC-Parental-Control/issues)
-- **Email**: pbedchukwunenye@gmail.com (as listed in config)
+- **Email**: obedchukwunenye@gmail.com (as listed in config)
 - **Documentation**: See this README and code comments
 
 ---

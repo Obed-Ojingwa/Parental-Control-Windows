@@ -57,5 +57,5 @@ logging:
 
 # Notifications
 notifications:
-  email: pbedchukwunenye@gmail.com
+  email: obedchukwunenye@gmail.com
   alert_on_blocked_access: true
