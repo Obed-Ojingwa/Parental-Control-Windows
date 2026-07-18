@@ -1,0 +1,61 @@
+# Parental Control Configuration File
+# Customize this file to match your needs
+
+# List of URLs to block (domain names)
+blocked_urls:
+  - facebook.com
+  - facebook.com/
+  - facebook.com/
+  - snapchat.com/
+  - snapchat.com/
+  - instagram.com
+  - tiktok.com
+  - twitter.com
+  - snapchat.com
+  - gaming-site.com
+  - xvideos.com
+  - pornhub.com
+  - buttplug.com
+  - xxx.com
+  # Add more URLs as needed
+
+# List of applications to block (process names or keywords)
+blocked_apps:
+  - torrent
+  - bitcoin
+  - minecraft
+  - steam
+  - discord
+  - tiktok
+  - facebook
+  - instagram
+  - twitter
+  - snapchat
+  - whatsapp
+  - roblox
+  
+  # Add more apps as needed
+
+# Time-based restrictions (24-hour format)
+allowed_hours:
+  start: 7    # 7:00 AM
+  end: 23     # 11:00 PM
+
+# Enable/disable features
+monitoring_enabled: true
+block_downloads: true
+enforce_time_limits: true
+monitor_usb: false
+
+# Parental password (change immediately!)
+parent_password: hihi@1234
+
+# Logging
+logging:
+  level: INFO
+  keep_days: 8000
+
+# Notifications
+notifications:
+  email: pbedchukwunenye@gmail.com
+  alert_on_blocked_access: true

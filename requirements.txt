@@ -1,0 +1,4 @@
+pywin32==305
+psutil==5.9.6
+pyyaml==6.0
+requests==2.31.0
