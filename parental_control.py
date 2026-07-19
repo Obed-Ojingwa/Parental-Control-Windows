@@ -21,6 +21,8 @@ LOG_DIR = Path(os.getenv('PROGRAMFILES')) / 'ParentalControl'
 LOG_DIR.mkdir(exist_ok=True)
 LOG_FILE = LOG_DIR / 'parental_control.log'
 
+
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
