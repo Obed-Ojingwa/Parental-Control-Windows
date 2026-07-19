@@ -4,6 +4,7 @@ Controls: URL access blocking, app download prevention, and usage monitoring
 Requires: Administrator privileges
 """
 
+import utils.session
 import os
 import sys
 import json
@@ -20,6 +21,8 @@ import yaml
 LOG_DIR = Path(os.getenv('PROGRAMFILES')) / 'ParentalControl'
 LOG_DIR.mkdir(exist_ok=True)
 LOG_FILE = LOG_DIR / 'parental_control.log'
+
+
 
 logging.basicConfig(
     level=logging.INFO,

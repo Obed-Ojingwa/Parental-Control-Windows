@@ -268,6 +268,7 @@ For questions, issues, or contributions:
 
 ---
 
+
 **Remember**: The best parental control combines technology with open communication, trust, and education. Use this tool as part of a comprehensive approach to digital safety and responsibility.
 
 *Copyright © 2023 PC-Parental-Control Contributors. Licensed under MIT.*
